@@ -6,7 +6,7 @@ app.MapGet("/", () => Results.Content("""
 <html>
 <head><title>My Azure App</title></head>
 <body>
-  <h1>Kako si Pavko?</h1>
+  <h1>Cao Vukasine Vlajicu :)</h1>
 </body>
 </html>
 """, "text/html"));
